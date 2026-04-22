@@ -1,4 +1,4 @@
-#Authors: Evelin de Souza Batista Silva
+#Author: Evelin de Souza Batista Silva
 import time
 from machine import Pin
 
